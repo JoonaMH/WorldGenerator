@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Planeetta generaattori</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name ="breath1">Pystyy hengittämään</string>
+    <string name ="breath2">Ei pysty hengittämään</string>
+    <string name ="square">km²</string>
+    <string name ="weatherE">Lämpötila</string>
+    <string name ="weather1">Jäätävä</string>
+    <string name ="weather2">Polttava</string>
+    <string name ="weather3">Todella kylmä</string>
+    <string name ="weather4">Todella kuuma</string>
+    <string name ="weather5">Kylmä</string>
+    <string name ="weather6">Kuuma</string>
+    <string name ="weather7">Viileä</string>
+    <string name ="weather8">Lämmin</string>
+    <string name ="weather9">Normaali</string>
+    <string name ="part1">Nimi: </string>
+    <string name ="part2">Pinta-ala: </string>
+    <string name ="part3">Vesi%: </string>
+    <string name ="part4">Maa ala: </string>
+    <string name ="part5">Ilma: </string>
+    <string name ="part6">Lämpötila: </string>
+    <string name ="part7">Asukasluku: </string>
+    <string name ="click">Luo</string>
+    <string name ="default_name">Syötä nimi</string>
+    <string name ="no_name">Ei nimeä</string>
+</resources>

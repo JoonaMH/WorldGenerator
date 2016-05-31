@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Planet generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name ="breath1">Breathable</string>
+    <string name ="breath2">Unbreathable</string>
+    <string name ="square">km²</string>
+    <string name ="weatherE">Temperature</string>
+    <string name ="weather1">Freezing</string>
+    <string name ="weather2">Burning</string>
+    <string name ="weather3">Very cold</string>
+    <string name ="weather4">Very hot</string>
+    <string name ="weather5">Cold</string>
+    <string name ="weather6">Hot</string>
+    <string name ="weather7">Cool</string>
+    <string name ="weather8">Warm</string>
+    <string name ="weather9">Normal</string>
+    <string name ="part1">Name: </string>
+    <string name ="part2">Surface area: </string>
+    <string name ="part3">Water%: </string>
+    <string name ="part4">Land area: </string>
+    <string name ="part5">Air: </string>
+    <string name ="part6">Temperature: </string>
+    <string name ="part7">Population: </string>
+    <string name ="click">Create</string>
+    <string name ="default_name">Enter name</string>
+    <string name ="no_name">No name</string>
+</resources>
